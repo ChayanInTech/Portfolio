@@ -2,9 +2,9 @@
 My Portfolio
 
 ## Chayan Sarawogi - Business Analytics Professional
--📍 Location: Champaign, Illinois
--📧 Email: [sarawogichayan10@gmail.com](sarawogichayan10@gmail.com)
-- Linkedin: [https://www.linkedin.com/in/chayan-sarawogi-46956a179/](https://www.linkedin.com/in/chayan-sarawogi-46956a179/)
+- 📍 Location: Champaign, Illinois
+- 📧 Email: [sarawogichayan10@gmail.com](sarawogichayan10@gmail.com)
+- 📧 Linkedin: [https://www.linkedin.com/in/chayan-sarawogi-46956a179/](https://www.linkedin.com/in/chayan-sarawogi-46956a179/)
 
 ### About Me
 I am a passionate Business Analytics professional pursuing a Master’s in Business Analytics at the University of Illinois - Urbana Champaign. With a background in Industrial Engineering and several years of experience at ZS Associates, I specialize in leveraging data analytics and predictive modeling to drive actionable business insights and improve decision-making processes. My work spans across multiple domains, including market forecasting, sales performance evaluation, and business strategy consulting.
